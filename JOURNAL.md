@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/myai1vhimqt031bpua2pocdm)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Playing with printing as displays ( and data transmitted over long distance to send your message of joy to anyone anywhere)
+> Playing with printing as displays ( to receive daily real time info or even send notes across the world)
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
