@@ -1,0 +1,8 @@
+Reference Designators;Quantity;Description;Package;Value;Manufacturer;Manufacturer Part Number;Vendor;Vendor Part Number;Top/Bottom;
+C1, C3;2;Capacitor - Generic;CAPRD550W60D1025H1250B;100uF;;;;;-;
+C2;1;Capacitor - Generic;CAPRD550W60D1025H1250B;1000uF;;;;;-;
+D1;1;Intelligent control LED integrated light source;WS2812B;WS2812B;Worldsemi;WS2812B;;;-;
+J2;1;USB Type C 16Pin Connector;USB-C-16P-4LAYER-ISOLATED;USB Female Type C Connector;;;;;-;
+JP1;1;Pin Header;1X06;PINHD-1X6;;;;;-;
+S1;1;Ultra-small Tactile Switch Contact form : SPST-NO;B3U-1000PM;B3U-X000B3U-1000P(M)1000P(M);Omron Electronics Inc-EMC Div;B3U-1000PM;;;-;
+U1;1;Seeed Studio XIAO Series Through-hole Footprint and Symbol;XIAO-GENERIC-THRUHOLE-MODULE14P-2.54-21X17.8MM;XIAO-THRUHOLE;;;;;-;
