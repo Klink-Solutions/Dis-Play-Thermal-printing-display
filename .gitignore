@@ -1,0 +1,9 @@
+# compiled host-test binaries and previews
+firmware/host_test/render_test
+firmware/host_test/stream_test
+firmware/host_test/sketch_test
+firmware/host_test/*.pbm
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
