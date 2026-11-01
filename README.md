@@ -1,6 +1,9 @@
 # Dis-Play-Thermal-printing-display
 ### Recipte printer notes to star your day!
 A small hardware and firmware project to print daily weather report to your life!
+<img width="506" height="783" alt="Screenshot 2026-11-02 at 00 01 58" src="https://github.com/user-attachments/assets/6077fa7e-ae3f-4bd9-b95c-d2540cdd14e0" />
+<img width="884" height="608" alt="Screenshot 2026-11-02 at 00 09 57" src="https://github.com/user-attachments/assets/d5dfc7b8-2abb-4fce-89ac-3aa6ac4f67ff" />
+
 
 ## What is this?
 
